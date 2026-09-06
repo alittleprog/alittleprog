@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет! Я alittleprog 👋
 
-<!--
-**alittleprog/alittleprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий разработчик из Самары. Изучаю Java и ко́жу проекты на чистом вайбе! ☕✨
 
-Here are some ideas to get you started:
+## 🛠️ Что я сейчас изучаю и использую
+![Java](https://shields.io)
+![Minecraft](https://shields.io)
+![Git](https://shields.io)
+![IntelliJ IDEA](https://shields.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Моя активность (со временем тут вырастут графики!)
+<p align="left">
+<img src="https://vercel.app" alt="alittleprog github stats" height="150" />
+<img src="https://vercel.app" alt="Top Langs" height="150" />
+</p>
+
+## 🚀 Мои проекты
+* **[easysurvival](https://github.com)** — мой первый Fabric-мод для Minecraft 1.21.1, который замедляет время и снижает расход еды.
