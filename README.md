@@ -10,10 +10,13 @@
 ![Git](https://shields.io)
 
 ## 📊 статистика профиля
-<p align="left">
-<img src="https://vercel.app" alt="alittleprog github stats" height="150" />
-<img src="https://vercel.app" alt="Top Langs" height="150" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="github contribution grid snake" src="https://githubusercontent.com">
+</picture>
+
+![активность](https://vercel.app)
 
 ## 🚀 проекты
 * **[easysurvival](https://github.com)** — мой первый fabric-мод на майнкрафт 1.21.1 (длинный день и медленный голод)
