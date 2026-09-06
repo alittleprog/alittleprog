@@ -13,5 +13,5 @@
 * 📈 **в планах:** разобраться с питоном в visual studio
 
 ## 🚀 проекты
-* **[easysurvival](https://github.com)** — мой первый fabric-мод на майнкрафт 1.21.1 (длинный день и медленный голод)
+* **[easysurvival](https://github.com/alittleprog/easysurvival-mod)** — мой первый fabric-мод на майнкрафт 1.21.1 (длинный день и медленный голод)
 
